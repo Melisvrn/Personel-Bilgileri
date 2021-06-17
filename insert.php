@@ -33,7 +33,7 @@
 <br>
     <div class="container"> 
         <div class="shadow p-3 mb-5 bg-white rounded"><!-- Gölge -->
-            <h3 class="mt33">PHP INSERT</h3>
+            <h3 class="mt33">PHP EKLE </h3>
             <h5 class="text-center text-success" id="message"><?= $sucess ;?></h5>
             <br>
             <form class="mt33" action="insert.php" method = "post"><!--form -->
