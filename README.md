@@ -2,7 +2,7 @@
 
 
 
-Amaç:
+__Amaç__
 
 Herhangi bir kurumda çalışan personellerin bilgilerini güncel tutmak için geliştirilen web tasarım projesidir..
 
@@ -30,3 +30,5 @@ Kulllanılan Teknolojiler:
 -HTML
 
 -CSS
+
+-Javascript
