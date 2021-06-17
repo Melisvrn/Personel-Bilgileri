@@ -4,31 +4,31 @@
 
 __Amaç:__
 
-Herhangi bir kurumda çalışan personellerin bilgilerini güncel tutmak için geliştirilen web tasarım projesidir..
+> Herhangi bir kurumda çalışan personellerin bilgilerini güncel tutmak için geliştirilen web tasarım projesidir..
 
 
 
 __Neler Yapılabiliyor:__
 
-Item 2a Sisteme giriş yapma
+> Sisteme giriş yapma
 
--Personel bilgilerini güncelleme
+> Personel bilgilerini güncelleme
 
--Yeni personel ekleme
+> Yeni personel ekleme
 
--Eski personel verilerini silme
+> Eski personel verilerini silme
 
 
 
 
 __Kulllanılan Teknolojiler:__
 
--PHP
+> PHP
 
--MYSQL
+> MYSQL
 
--HTML
+> HTML
 
--CSS
+> CSS
 
--Javascript
+> Javascript
