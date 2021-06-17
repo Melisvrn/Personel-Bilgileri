@@ -2,15 +2,15 @@
 
 
 
-__Amaç__
+__Amaç:__
 
 Herhangi bir kurumda çalışan personellerin bilgilerini güncel tutmak için geliştirilen web tasarım projesidir..
 
 
 
-Neler Yapılabiliyor:
+__Neler Yapılabiliyor:__
 
--Sisteme giriş yapma
+Item 2a Sisteme giriş yapma
 
 -Personel bilgilerini güncelleme
 
@@ -21,7 +21,7 @@ Neler Yapılabiliyor:
 
 
 
-Kulllanılan Teknolojiler:
+__Kulllanılan Teknolojiler:__
 
 -PHP
 
